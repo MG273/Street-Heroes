@@ -4,11 +4,11 @@ This is a very simple and old game that I made. And I opened this repository if 
 
 ## Image
 
-![image info](./Image Game/1.png)
-![image info](./Image Game/2.png)
-![image info](./Image Game/3.png)
-![image info](./Image Game/4.png)
-![image info](./Image Game/5.png)
+![image info](https://github.com/MG273/Street-Heroes/blob/main/Image%20Game/1.jpg?raw=true)
+![image info](https://github.com/MG273/Street-Heroes/blob/main/Image%20Game/2.jpg?raw=true)
+![image info](https://github.com/MG273/Street-Heroes/blob/main/Image%20Game/3.jpg?raw=true)
+![image info](https://github.com/MG273/Street-Heroes/blob/main/Image%20Game/4.jpg?raw=true)
+![image info](https://github.com/MG273/Street-Heroes/blob/main/Image%20Game/5.jpg?raw=true)
 
 ## Contributing
 
